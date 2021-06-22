@@ -1,0 +1,16 @@
+/home/anycat/Desktop/somecreativeshit/minsk/mc/bin/Debug/net5.0/mc
+/home/anycat/Desktop/somecreativeshit/minsk/mc/bin/Debug/net5.0/mc.deps.json
+/home/anycat/Desktop/somecreativeshit/minsk/mc/bin/Debug/net5.0/mc.runtimeconfig.json
+/home/anycat/Desktop/somecreativeshit/minsk/mc/bin/Debug/net5.0/mc.runtimeconfig.dev.json
+/home/anycat/Desktop/somecreativeshit/minsk/mc/bin/Debug/net5.0/mc.dll
+/home/anycat/Desktop/somecreativeshit/minsk/mc/bin/Debug/net5.0/ref/mc.dll
+/home/anycat/Desktop/somecreativeshit/minsk/mc/bin/Debug/net5.0/mc.pdb
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.csproj.AssemblyReference.cache
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.GeneratedMSBuildEditorConfig.editorconfig
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.AssemblyInfoInputs.cache
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.AssemblyInfo.cs
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.csproj.CoreCompileInputs.cache
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.dll
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/ref/mc.dll
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.pdb
+/home/anycat/Desktop/somecreativeshit/minsk/mc/obj/Debug/net5.0/mc.genruntimeconfig.cache
